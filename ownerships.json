@@ -1,0 +1,647 @@
+[
+  {
+    "id": 1,
+    "lat": 20.2148965,
+    "lon": -87.5096528,
+    "titulo": "ICHT 409",
+    "descripcion": "El departamento que soñaste en Tulum",
+    "descripcionEn": "The apartment you dreamed of in Tulum",
+    "image": "/assets/nuevo/departamentos/Departamento1/depa 1.1.jpg",
+    "width": "w-3/5",
+    "caracteristicas": {
+      "metros": "92",
+      "habitaciones": "2",
+      "banos": "2",
+      "precioMXN": 911196.0,
+      "precioUSD": "45,559",
+      "fracciones": "10",
+      "disponibles": "10"
+    },
+    "carouselImages": [
+      "/assets/nuevo/departamentos/Departamento1/depa 1.1.jpg",
+      "/assets/nuevo/departamentos/Departamento1/depa 1.2.jpg",
+      "/assets/nuevo/departamentos/Departamento1/depa 1.3.jpg",
+      "/assets/nuevo/departamentos/Departamento1/depa 1.4.jpg",
+      "/assets/nuevo/departamentos/Departamento1/depa 1.5.jpg",
+      "/assets/nuevo/departamentos/Departamento1/depa 1.6.jpg"
+    ],
+    "conoceMas": {
+      "vision": {
+        "titulo": "Visión",
+        "image": "/assets/nuevo/departamentos/360_area.png"
+      },
+      "ubicacion": {
+        "titulo": "Ubicación",
+        "image": "/assets/nuevo/departamentos/Departamento1/mapa iik.png",
+        "lat": 20.214889,
+        "lon": -87.439615
+      },
+      "planos": {
+        "titulo": "Planos",
+        "image": "/assets/nuevo/departamentos/Departamento1/planos iik.png"
+      },
+      "specs": {
+        "titulo": "Especificaciones",
+        "natural": {
+          "playas": [
+            { "id": 1, "nombre": "La Manzanilla", "kilometros": "Propia" },
+            { "id": 2, "nombre": "Punta cometa", "kilometros": "3km" },
+            { "id": 3, "nombre": "Destilladeras", "kilometros": "5km" },
+            { "id": 4, "nombre": "Punta de mita", "kilometros": "6km" },
+            { "id": 5, "nombre": "Careyeros", "kilometros": "6km" },
+            { "id": 6, "nombre": "Sayulita", "kilometros": "10km" },
+            { "id": 7, "nombre": "San Francisco", "kilometros": "15km" },
+            { "id": 8, "nombre": "Bucerias", "kilometros": "5km" },
+            { "id": 9, "nombre": "Nuevo Vallarta", "kilometros": "10km" },
+            { "id": 10, "nombre": "Vallarta", "kilometros": "20km" },
+            { "id": 11, "nombre": "Playa los Muertos", "kilometros": "22km" },
+            { "id": 12, "nombre": "Boca de Tomatlan", "kilometros": "50km" },
+            { "id": 13, "nombre": "Conchas Chinas", "kilometros": "50km" },
+            { "id": 14, "nombre": "Las Gemelas", "kilometros": "50km" },
+            { "id": 15, "nombre": "Yelapa", "kilometros": "" },
+            { "id": 16, "nombre": "Caleta", "kilometros": "" },
+            { "id": 17, "nombre": "Las Animas", "kilometros": "" }
+          ],
+          "montañas": [
+            { "id": 1, "nombre": "Cerro el mono", "kilometros": "10km" },
+            { "id": 2, "nombre": "Mirador de la bruja", "kilometros": "15km" },
+            {
+              "id": 3,
+              "nombre": "San Sebastian del oeste",
+              "kilometros": "40km"
+            }
+          ]
+        },
+        "experiencias": {
+          "excursiones": [
+            { "id": 1, "nombre": "Islas marieta" },
+            { "id": 2, "nombre": "Yelapa" },
+            { "id": 3, "nombre": "Caleta" },
+            { "id": 4, "nombre": "Nado con delfines" },
+            { "id": 5, "nombre": "Majahuitas" },
+            { "id": 6, "nombre": "Buceo experiencia" },
+            { "id": 7, "nombre": "Contemplación de ballenas" }
+          ],
+          "tour": [
+            { "id": 1, "nombre": "Sayulita" },
+            { "id": 2, "nombre": "Cuervo Casa Tequila" },
+            { "id": 3, "nombre": "Vallarta Centro" },
+            { "id": 4, "nombre": "San Sebastian del Oeste" },
+            { "id": 5, "nombre": "Velero o Yate Privado" }
+          ]
+        },
+        "social": {
+          "restaurantes": [
+            { "id": 1, "nombre": "La Leche" },
+            { "id": 2, "nombre": "Porfirios" },
+            { "id": 3, "nombre": "Cafe des artistes" },
+            { "id": 4, "nombre": "The blue shrimp" },
+            { "id": 5, "nombre": "Karuma" },
+            { "id": 6, "nombre": "Juan Tiburon" },
+            { "id": 7, "nombre": "Mariscos el Gordo" },
+            { "id": 8, "nombre": "La Peska" }
+          ],
+          "tiendas": [
+            {
+              "id": 1,
+              "nombre": "La isla Shopping Village",
+              "kilometros": "28km"
+            },
+            { "id": 2, "nombre": "Galerias Vallarta", "kilometros": "25km" }
+          ]
+        },
+        "cultura": {
+          "musica": [
+            {
+              "id": 1,
+              "nombre": "Esculturas y murales en malecón de Puerto Vallarta"
+            },
+            { "id": 2, "nombre": "Galeria Dante" },
+            { "id": 3, "nombre": "Galeria Caballito de mar" },
+            { "id": 4, "nombre": "Galeria Colectika" },
+            { "id": 5, "nombre": "Galeria Uno" },
+            { "id": 6, "nombre": "Teatro Vallarte Centro Cultural" }
+          ],
+          "deporte": [
+            { "id": 1, "nombre": "Buceo" },
+            { "id": 2, "nombre": "Snorkel" },
+            { "id": 3, "nombre": "Pesca deportiva" },
+            { "id": 4, "nombre": "Flyboard" },
+            { "id": 5, "nombre": "Surf" },
+            { "id": 6, "nombre": "Kite surf" },
+            { "id": 7, "nombre": "Golf" }
+          ]
+        },
+        "salud": {
+          "hospitales": [
+            { "id": 1, "nombre": "Spine Clinic" },
+            { "id": 2, "nombre": "Advance Medical Center" },
+            { "id": 3, "nombre": "CMQ Hospital" },
+            { "id": 4, "nombre": "San Mare Health Care Group" }
+          ]
+        }
+      },
+      "simulador": {
+        "titulo": "Simulador",
+        "image": "/assets/nuevo/departamentos/IMAGENES CATALOGO-13.png",
+        "inversion": 91119.6,
+        "costovivienda": 6000
+      }
+    }
+  },
+  {
+    "id": 2,
+    "lat": 20.6539385,
+    "lon": -87.1417374,
+    "titulo": "Ceren 204",
+    "descripcion": "Tu depa en Playa del Carmen",
+    "descripcionEn": "Your apartment in Playa del Carmen",
+    "image": "/assets/nuevo/departamentos/Departamento5/CARRETE-14.jpg",
+    "width": "w-2/5",
+    "caracteristicas": {
+      "metros": "87",
+      "habitaciones": "2",
+      "banos": "2",
+      "precioMXN": 1250052,
+      "precioUSD": "62,502",
+      "fracciones": "8",
+      "disponibles": "8"
+    },
+    "carouselImages": [
+      "/assets/nuevo/departamentos/Departamento5/CARRETE-14.jpg",
+      "/assets/nuevo/departamentos/Departamento5/CARRETE-14-24.jpg",
+      "/assets/nuevo/departamentos/Departamento5/CARRETE-15.jpg",
+      "/assets/nuevo/departamentos/Departamento5/CARRETE-16.jpg",
+      "/assets/nuevo/departamentos/Departamento5/CARRETE-17.jpg",
+      "/assets/nuevo/departamentos/Departamento5/CARRETE-18.jpg"
+    ],
+    "conoceMas": {
+      "vision": {
+        "titulo": "Visión",
+        "image": "/images/propiedades/1.jpg"
+      },
+      "ubicacion": {
+        "titulo": "Ubicación",
+        "image": "/assets/nuevo/departamentos/Departamento5/MAPA-25.jpg",
+        "lat": 20.637514,
+        "lon": -87.064302
+      },
+      "planos": {
+        "titulo": "Planos",
+        "image": "/assets/nuevo/departamentos/Departamento5/PLANO-26.png"
+      },
+      "specs": {
+        "titulo": "Especificaciones",
+        "natural": {
+          "playas": [
+            { "id": 1, "nombre": "Playa del Carmen", "kilometros": "200mts" },
+            {
+              "id": 2,
+              "nombre": "Playa Punta Esmeralda",
+              "kilometros": "500mts"
+            },
+            { "id": 3, "nombre": "Playacar", "kilometros": "1km" },
+            { "id": 4, "nombre": "Playa del Secreto", "kilometros": "10km" },
+            { "id": 5, "nombre": "Playa del Amor", "kilometros": "12km" },
+            { "id": 6, "nombre": "Punta Maroma", "kilometros": "15km" },
+            { "id": 7, "nombre": "Paal Mol Beach", "kilometros": "18km" },
+            {
+              "id": 8,
+              "nombre": "Playa del Puerto Morelos",
+              "kilometros": "35km"
+            },
+            { "id": 9, "nombre": "Playa Hex PU ha", "kilometros": "38km" },
+            { "id": 10, "nombre": "Playa Akumal", "kilometros": "39km" },
+            { "id": 11, "nombre": "Tulum Playa Paraiso", "kilometros": "65km" },
+            { "id": 12, "nombre": "Tulum Playa Ruinas", "kilometros": "64km" },
+            { "id": 13, "nombre": "Joyce Beach", "kilometros": "82km" },
+            {
+              "id": 14,
+              "nombre": "Playa Secreta Sian Ka'an",
+              "kilometros": "128km"
+            },
+            { "id": 15, "nombre": "Cozumel", "kilometros": "1 Hora" },
+            { "id": 16, "nombre": "Contoy", "kilometros": "1 Hora + 1 Hora" },
+            {
+              "id": 17,
+              "nombre": "Isla Mujeres",
+              "kilometros": "30 Min + 1 Hora"
+            },
+            { "id": 18, "nombre": "Holbox", "kilometros": "30 Min + 2 Horas" }
+          ],
+          "montañas": [
+            { "id": 1, "nombre": "Punta Venado", "kilometros": "24km" },
+            { "id": 2, "nombre": "Cenote dos ojos", "kilometros": "51km" },
+            { "id": 3, "nombre": "Aktun Chen", "kilometros": "40km" },
+            { "id": 4, "nombre": "Sac Actum", "kilometros": "54km" },
+            { "id": 5, "nombre": "Kantun Chi", "kilometros": "26km" },
+            { "id": 6, "nombre": "ChaaK Tun", "kilometros": "5km" },
+            { "id": 7, "nombre": "Gran Cenote", "kilometros": "67km" },
+            { "id": 8, "nombre": "Cenote Santa Cruz", "kilometros": "39km" },
+            { "id": 9, "nombre": "Labnaha", "kilometros": "52km" },
+            { "id": 10, "nombre": "Chikin Ha", "kilometros": "27km" },
+            { "id": 11, "nombre": "Kin Ha", "kilometros": "59km" },
+            { "id": 12, "nombre": "Zacil Ha", "kilometros": "71km" },
+            { "id": 13, "nombre": "Yax Muul", "kilometros": "52km" },
+            { "id": 14, "nombre": "Cenote Carabela", "kilometros": "65km" },
+            {
+              "id": 15,
+              "nombre": "Cenote Corazón del paraiso",
+              "kilometros": "71km"
+            }
+          ]
+        },
+        "experiencias": {
+          "excursiones": [
+            { "id": 1, "nombre": "Biosfera Sian Ka'an" },
+            { "id": 2, "nombre": "Yal-Kul  laguna" },
+            { "id": 3, "nombre": "Parque arqueologico Tulum" },
+            { "id": 4, "nombre": "Parque arqueologico Chichen Itza" },
+            { "id": 5, "nombre": "Parque arqueologico Coba" },
+            { "id": 6, "nombre": "Recorrido de arte callejero Cancún" },
+            { "id": 7, "nombre": "Recorrido de arte callejero Tulum" }
+          ],
+          "tour": [
+            { "id": 1, "nombre": "Xcaret Parque ecoturistico" },
+            { "id": 2, "nombre": "Xplor" },
+            { "id": 3, "nombre": "Buggy Tour  jungla" },
+            { "id": 4, "nombre": "Nado con delfines" },
+            { "id": 5, "nombre": "Nado con Tortuga marina" },
+            { "id": 6, "nombre": "Nado con tiburon ballena" },
+            { "id": 7, "nombre": "Paseo a  Caballo" },
+            { "id": 8, "nombre": "Temazcal" },
+            { "id": 9, "nombre": "Clases de cocina maya" },
+            { "id": 10, "nombre": "Noche Bailando salsa" }
+          ]
+        },
+        "social": {
+          "restaurantes": [
+            { "id": 1, "nombre": "Thompson" },
+            { "id": 2, "nombre": "Agave azul" },
+            { "id": 3, "nombre": "El Chuleton" },
+            { "id": 4, "nombre": "Taqueria los compas" },
+            { "id": 5, "nombre": "the traveler's table" },
+            { "id": 6, "nombre": "MVNGATA" },
+            { "id": 7, "nombre": "Ictio Fish House" },
+            { "id": 8, "nombre": "Trattoria del centro" }
+          ],
+          "tiendas": []
+        },
+        "cultura": {
+          "musica": [
+            { "id": 1, "nombre": "Galeria Dante" },
+            { "id": 2, "nombre": "Galeria Caballito de mar" },
+            { "id": 3, "nombre": "Galeria Colectika" },
+            { "id": 4, "nombre": "Galeria Uno" },
+            { "id": 5, "nombre": "Teatro Vallarte Centro Cultural" }
+          ],
+          "deporte": [
+            { "id": 1, "nombre": "Buceo" },
+            { "id": 2, "nombre": "Snorkel" },
+            { "id": 3, "nombre": "Pesca deportiva" },
+            { "id": 4, "nombre": "Flyboard" },
+            { "id": 5, "nombre": "Surf" },
+            { "id": 6, "nombre": "Kite surf" },
+            { "id": 7, "nombre": "Golf" }
+          ]
+        },
+        "salud": {
+          "hospitales": [
+            { "id": 1, "nombre": "Spine Clinic" },
+            { "id": 2, "nombre": "Advance Medical Center" },
+            { "id": 3, "nombre": "CMQ Hospital" },
+            { "id": 4, "nombre": "San Mare Health Care Group" }
+          ]
+        }
+      },
+      "simulador": {
+        "titulo": "Simulador",
+        "image": "assets/nuevo/departamentos/IMAGENES CATALOGO-13.png",
+        "inversion": 208342,
+        "costovivienda": 5400
+      }
+    }
+  },
+  {
+    "id": 3,
+    "lat": 20.6539385,
+    "lon": -87.1417374,
+    "titulo": "Ceren 302",
+    "descripcion": "Tu depa a 200 m de la playa",
+    "descripcionEn": "Your apartment 200 m from the beach",
+    "image": "/assets/nuevo/departamentos/Departamento6/CARRETE-20.jpg",
+    "width": "w-full",
+    "caracteristicas": {
+      "metros": "55",
+      "habitaciones": "1",
+      "banos": "1",
+      "precioMXN": 854262,
+      "precioUSD": "42,713",
+      "fracciones": "8",
+      "disponibles": "7"
+    },
+    "carouselImages": [
+      "/assets/nuevo/departamentos/Departamento6/CARRETE-20.jpg",
+      "/assets/nuevo/departamentos/Departamento6/CARRETE-19.jpg",
+      "/assets/nuevo/departamentos/Departamento6/CARRETE-21.jpg",
+      "/assets/nuevo/departamentos/Departamento6/CARRETE-22.jpg",
+      "/assets/nuevo/departamentos/Departamento6/CARRETE-23.jpg",
+      "/assets/nuevo/departamentos/Departamento6/CARRETE-24.jpg"
+    ],
+    "conoceMas": {
+      "vision": {
+        "titulo": "Visión",
+        "image": "/images/propiedades/1.jpg"
+      },
+      "ubicacion": {
+        "titulo": "Ubicación",
+        "image": "/assets/nuevo/departamentos/Departamento6/MAPA-30.jpg",
+        "lat": 20.637514,
+        "lon": -87.064302
+      },
+      "planos": {
+        "titulo": "Planos",
+        "image": "/assets/nuevo/departamentos/Departamento6/landing page Dep CEREN-31.png"
+      },
+      "specs": {
+        "titulo": "Especificaciones",
+        "natural": {
+          "playas": [
+            { "id": 1, "nombre": "Playa del Carmen", "kilometros": "200mts" },
+            {
+              "id": 2,
+              "nombre": "Playa Punta Esmeralda",
+              "kilometros": "500mts"
+            },
+            { "id": 3, "nombre": "Playacar", "kilometros": "1km" },
+            { "id": 4, "nombre": "Playa del Secreto", "kilometros": "10km" },
+            { "id": 5, "nombre": "Playa del Amor", "kilometros": "12km" },
+            { "id": 6, "nombre": "Punta Maroma", "kilometros": "15km" },
+            { "id": 7, "nombre": "Paal Mol Beach", "kilometros": "18km" },
+            {
+              "id": 8,
+              "nombre": "Playa del Puerto Morelos",
+              "kilometros": "35km"
+            },
+            { "id": 9, "nombre": "Playa Hex PU ha", "kilometros": "38km" },
+            { "id": 10, "nombre": "Playa Akumal", "kilometros": "39km" },
+            { "id": 11, "nombre": "Tulum Playa Paraiso", "kilometros": "65km" },
+            { "id": 12, "nombre": "Tulum Playa Ruinas", "kilometros": "64km" },
+            { "id": 13, "nombre": "Joyce Beach", "kilometros": "82km" },
+            {
+              "id": 14,
+              "nombre": "Playa Secreta Sian Ka'an",
+              "kilometros": "128km"
+            },
+            { "id": 15, "nombre": "Cozumel", "kilometros": "1 Hora" },
+            { "id": 16, "nombre": "Contoy", "kilometros": "1 Hora + 1 Hora" },
+            {
+              "id": 17,
+              "nombre": "Isla Mujeres",
+              "kilometros": "30 Min + 1 Hora"
+            },
+            { "id": 18, "nombre": "Holbox", "kilometros": "30 Min + 2 Horas" }
+          ],
+          "montañas": [
+            { "id": 1, "nombre": "Punta Venado", "kilometros": "24km" },
+            { "id": 2, "nombre": "Cenote dos ojos", "kilometros": "51km" },
+            { "id": 3, "nombre": "Aktun Chen", "kilometros": "40km" },
+            { "id": 4, "nombre": "Sac Actum", "kilometros": "54km" },
+            { "id": 5, "nombre": "Kantun Chi", "kilometros": "26km" },
+            { "id": 6, "nombre": "ChaaK Tun", "kilometros": "5km" },
+            { "id": 7, "nombre": "Gran Cenote", "kilometros": "67km" },
+            { "id": 8, "nombre": "Cenote Santa Cruz", "kilometros": "39km" },
+            { "id": 9, "nombre": "Labnaha", "kilometros": "52km" },
+            { "id": 10, "nombre": "Chikin Ha", "kilometros": "27km" },
+            { "id": 11, "nombre": "Kin Ha", "kilometros": "59km" },
+            { "id": 12, "nombre": "Zacil Ha", "kilometros": "71km" },
+            { "id": 13, "nombre": "Yax Muul", "kilometros": "52km" },
+            { "id": 14, "nombre": "Cenote Carabela", "kilometros": "65km" },
+            {
+              "id": 15,
+              "nombre": "Cenote Corazón del paraiso",
+              "kilometros": "71km"
+            }
+          ]
+        },
+        "experiencias": {
+          "excursiones": [
+            { "id": 1, "nombre": "Biosfera Sian Ka'an" },
+            { "id": 2, "nombre": "Yal-Kul  laguna" },
+            { "id": 3, "nombre": "Parque arqueologico Tulum" },
+            { "id": 4, "nombre": "Parque arqueologico Chichen Itza" },
+            { "id": 5, "nombre": "Parque arqueologico Coba" },
+            { "id": 6, "nombre": "Recorrido de arte callejero Cancún" },
+            { "id": 7, "nombre": "Recorrido de arte callejero Tulum" }
+          ],
+          "tour": [
+            { "id": 1, "nombre": "Xcaret Parque ecoturistico" },
+            { "id": 2, "nombre": "Xplor" },
+            { "id": 3, "nombre": "Buggy Tour  jungla" },
+            { "id": 4, "nombre": "Nado con delfines" },
+            { "id": 5, "nombre": "Nado con Tortuga marina" },
+            { "id": 6, "nombre": "Nado con tiburon ballena" },
+            { "id": 7, "nombre": "Paseo a  Caballo" },
+            { "id": 8, "nombre": "Temazcal" },
+            { "id": 9, "nombre": "Clases de cocina maya" },
+            { "id": 10, "nombre": "Noche Bailando salsa" }
+          ]
+        },
+        "social": {
+          "restaurantes": [
+            { "id": 1, "nombre": "Thompson" },
+            { "id": 2, "nombre": "Agave azul" },
+            { "id": 3, "nombre": "El Chuleton" },
+            { "id": 4, "nombre": "Taqueria los compas" },
+            { "id": 5, "nombre": "the traveler's table" },
+            { "id": 6, "nombre": "MVNGATA" },
+            { "id": 7, "nombre": "Ictio Fish House" },
+            { "id": 8, "nombre": "Trattoria del centro" }
+          ],
+          "tiendas": []
+        },
+        "cultura": {
+          "musica": [
+            { "id": 1, "nombre": "Galeria Dante" },
+            { "id": 2, "nombre": "Galeria Caballito de mar" },
+            { "id": 3, "nombre": "Galeria Colectika" },
+            { "id": 4, "nombre": "Galeria Uno" },
+            { "id": 5, "nombre": "Teatro Vallarte Centro Cultural" }
+          ],
+          "deporte": [
+            { "id": 1, "nombre": "Buceo" },
+            { "id": 2, "nombre": "Snorkel" },
+            { "id": 3, "nombre": "Pesca deportiva" },
+            { "id": 4, "nombre": "Flyboard" },
+            { "id": 5, "nombre": "Surf" },
+            { "id": 6, "nombre": "Kite surf" },
+            { "id": 7, "nombre": "Golf" }
+          ]
+        },
+        "salud": {
+          "hospitales": [
+            { "id": 1, "nombre": "Spine Clinic" },
+            { "id": 2, "nombre": "Advance Medical Center" },
+            { "id": 3, "nombre": "CMQ Hospital" },
+            { "id": 4, "nombre": "San Mare Health Care Group" }
+          ]
+        }
+      },
+      "simulador": {
+        "titulo": "Simulador",
+        "image": "assets/nuevo/departamentos/IMAGENES CATALOGO-13.png",
+        "inversion": 106782.75,
+        "costovivienda": 4100
+      }
+    }
+  },
+  {
+    "id": 4,
+    "lat": 20.211884,
+    "lon": -87.5235525,
+    "titulo": "IIK 102",
+    "descripcion": "Solo 978,500 por tu Departamento en Tulum",
+    "descripcionEn": "Only 978,500 for your Apartment in Tulum",
+    "image": "/assets/nuevo/departamentos/Departamento4/depa 4.1.jpg",
+    "width": "w-full",
+    "caracteristicas": {
+      "metros": "105",
+      "habitaciones": "2",
+      "banos": "2",
+      "precioMXN": 978497,
+      "precioUSD": "48,924",
+      "fracciones": "8",
+      "disponibles": "4"
+    },
+    "carouselImages": [
+      "/assets/nuevo/departamentos/Departamento4/depa 4.1.jpg",
+      "/assets/nuevo/departamentos/Departamento4/depa 4.2.jpg",
+      "/assets/nuevo/departamentos/Departamento4/depa 4.3.jpg",
+      "/assets/nuevo/departamentos/Departamento4/depa 4.4.jpg",
+      "/assets/nuevo/departamentos/Departamento4/depa 4.5.jpg"
+    ],
+    "conoceMas": {
+      "vision": {
+        "titulo": "Visión",
+        "image": "/images/propiedades/1.jpg"
+      },
+      "ubicacion": {
+        "titulo": "Ubicación",
+        "image": "/assets/nuevo/departamentos/Departamento4/mapa ikk.png",
+        "lat": 20.211874,
+        "lon": -87.453509
+      },
+      "planos": {
+        "titulo": "Planos",
+        "image": "/assets/nuevo/departamentos/Departamento4/planos iikk.png"
+      },
+      "specs": {
+        "titulo": "Especificaciones",
+        "natural": {
+          "playas": [
+            { "id": 1, "nombre": "La Manzanilla", "kilometros": "Propia" },
+            { "id": 2, "nombre": "Punta cometa", "kilometros": "3km" },
+            { "id": 3, "nombre": "Destilladeras", "kilometros": "5km" },
+            { "id": 4, "nombre": "Punta de mita", "kilometros": "6km" },
+            { "id": 5, "nombre": "Careyeros", "kilometros": "6km" },
+            { "id": 6, "nombre": "Sayulita", "kilometros": "10km" },
+            { "id": 7, "nombre": "San Francisco", "kilometros": "15km" },
+            { "id": 8, "nombre": "Bucerias", "kilometros": "5km" },
+            { "id": 9, "nombre": "Nuevo Vallarta", "kilometros": "10km" },
+            { "id": 10, "nombre": "Vallarta", "kilometros": "20km" },
+            { "id": 11, "nombre": "Playa los Muertos", "kilometros": "22km" },
+            { "id": 12, "nombre": "Boca de Tomatlan", "kilometros": "50km" },
+            { "id": 13, "nombre": "Conchas Chinas", "kilometros": "50km" },
+            { "id": 14, "nombre": "Las Gemelas", "kilometros": "50km" },
+            { "id": 15, "nombre": "Yelapa", "kilometros": "" },
+            { "id": 16, "nombre": "Caleta", "kilometros": "" },
+            { "id": 17, "nombre": "Las Animas", "kilometros": "" }
+          ],
+          "montañas": [
+            { "id": 1, "nombre": "Cerro el mono", "kilometros": "10km" },
+            { "id": 2, "nombre": "Mirador de la bruja", "kilometros": "15km" },
+            {
+              "id": 3,
+              "nombre": "San Sebastian del oeste",
+              "kilometros": "40km"
+            }
+          ]
+        },
+        "experiencias": {
+          "excursiones": [
+            { "id": 1, "nombre": "Islas marieta" },
+            { "id": 2, "nombre": "Yelapa" },
+            { "id": 3, "nombre": "Caleta" },
+            { "id": 4, "nombre": "Nado con delfines" },
+            { "id": 5, "nombre": "Majahuitas" },
+            { "id": 6, "nombre": "Buceo experiencia" },
+            { "id": 7, "nombre": "Contemplación de ballenas" }
+          ],
+          "tour": [
+            { "id": 1, "nombre": "Sayulita" },
+            { "id": 2, "nombre": "Cuervo Casa Tequila" },
+            { "id": 3, "nombre": "Vallarta Centro" },
+            { "id": 4, "nombre": "San Sebastian del Oeste" },
+            { "id": 5, "nombre": "Velero o Yate Privado" }
+          ]
+        },
+        "social": {
+          "restaurantes": [
+            { "id": 1, "nombre": "La Leche" },
+            { "id": 2, "nombre": "Porfirios" },
+            { "id": 3, "nombre": "Cafe des artistes" },
+            { "id": 4, "nombre": "The blue shrimp" },
+            { "id": 5, "nombre": "Karuma" },
+            { "id": 6, "nombre": "Juan Tiburon" },
+            { "id": 7, "nombre": "Mariscos el Gordo" },
+            { "id": 8, "nombre": "La Peska" }
+          ],
+          "tiendas": [
+            {
+              "id": 1,
+              "nombre": "La isla Shopping Village",
+              "kilometros": "28km"
+            },
+            { "id": 2, "nombre": "Galerias Vallarta", "kilometros": "25km" }
+          ]
+        },
+        "cultura": {
+          "musica": [
+            {
+              "id": 1,
+              "nombre": "Esculturas y murales en malecón de Puerto Vallarta"
+            },
+            { "id": 2, "nombre": "Galeria Dante" },
+            { "id": 3, "nombre": "Galeria Caballito de mar" },
+            { "id": 4, "nombre": "Galeria Colectika" },
+            { "id": 5, "nombre": "Galeria Uno" },
+            { "id": 6, "nombre": "Teatro Vallarte Centro Cultural" }
+          ],
+          "deporte": [
+            { "id": 1, "nombre": "Buceo" },
+            { "id": 2, "nombre": "Snorkel" },
+            { "id": 3, "nombre": "Pesca deportiva" },
+            { "id": 4, "nombre": "Flyboard" },
+            { "id": 5, "nombre": "Surf" },
+            { "id": 6, "nombre": "Kite surf" },
+            { "id": 7, "nombre": "Golf" }
+          ]
+        },
+        "salud": {
+          "hospitales": [
+            { "id": 1, "nombre": "Spine Clinic" },
+            { "id": 2, "nombre": "Advance Medical Center" },
+            { "id": 3, "nombre": "CMQ Hospital" },
+            { "id": 4, "nombre": "San Mare Health Care Group" }
+          ]
+        }
+      },
+      "simulador": {
+        "titulo": "Simulador",
+        "image": "assets/nuevo/departamentos/IMAGENES CATALOGO-13.png",
+        "inversion": 122312.12,
+        "costovivienda": 6200
+      }
+    }
+  }
+]

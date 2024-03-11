@@ -1,0 +1,65 @@
+{
+  "name": "bunsi-ts",
+  "version": "0.1.0",
+  "engines": {
+    "node": "20.9.0",
+    "npm": "10.1.0"
+  },
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@googlemaps/react-wrapper": "^1.1.35",
+    "@react-google-maps/api": "^2.17.0",
+    "@trpc/client": "^9.27.2",
+    "@trpc/next": "^9.27.2",
+    "@trpc/react": "^9.27.2",
+    "@trpc/server": "^9.27.2",
+    "axios": "^1.2.5",
+    "bootstrap": "^5.2.3",
+    "flowbite": "^1.6.2",
+    "flowbite-react": "^0.3.7",
+    "google-map-react": "^2.2.0",
+    "lodash": "^4.17.21",
+    "next": "12.2.5",
+    "next-auth": "^4.10.3",
+    "next-images": "^1.8.4",
+    "next-link": "^2.0.0",
+    "nodemailer": "^6.8.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.0",
+    "react-dom": "^18.2.0",
+    "react-ga": "^3.3.1",
+    "react-intl": "^6.1.2",
+    "react-query": "^3.39.2",
+    "reactstrap": "^9.1.5",
+    "superjson": "^1.9.1",
+    "sweetalert2": "^11.10.1",
+    "sweetalert2-react-content": "^5.0.7",
+    "swiper": "^8.3.2",
+    "zod": "^3.18.0"
+  },
+  "devDependencies": {
+    "@types/bootstrap": "^5.2.4",
+    "@types/google-map-react": "^2.1.7",
+    "@types/node": "^18.11.18",
+    "@types/nodemailer": "^6.4.6",
+    "@types/react": "18.0.14",
+    "@types/react-dom": "18.0.5",
+    "@typescript-eslint/eslint-plugin": "^5.33.0",
+    "@typescript-eslint/parser": "^5.33.0",
+    "autoprefixer": "^10.4.8",
+    "eslint": "8.22.0",
+    "eslint-config-next": "12.2.5",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8",
+    "typescript": "4.7.4"
+  },
+  "ct3aMetadata": {
+    "initVersion": "5.10.2"
+  }
+}

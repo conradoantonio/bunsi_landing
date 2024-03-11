@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 577 1258">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-2 {
+        fill: #004523;
+      }
+
+      .cls-3 {
+        isolation: isolate;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5, .cls-6 {
+        mix-blend-mode: multiply;
+        opacity: .38;
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-8 {
+        fill: #83ab7a;
+      }
+
+      .cls-9 {
+        fill: none;
+      }
+
+      .cls-10 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-9" x="-821.52" y="-55" width="575.99" height="701"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-9" x="-821.53" y="-177.77" width="576" height="1305.54" rx="12" ry="12"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="cls-9" width="577" height="1258"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect class="cls-9" x="-179.97" width="936.94" height="2046"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="295.63" y1="2152.32" x2="295.63" y2=".54" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#39a94a"/>
+      <stop offset="1" stop-color="#006837"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-177.61" y1="404.14" x2="219.13" y2="404.14" xlink:href="#linear-gradient"/>
+  </defs>
+  <g class="cls-3">
+    <g id="Layer_1" data-name="Layer 1">
+      <g class="cls-7">
+        <g class="cls-4">
+          <image width="2074" height="1384" transform="translate(-1464.21 -177.21) scale(.94)" xlink:href="CATÁLOGO DE PROPIEDADES/Departamento 1/depa 1.png"/>
+        </g>
+      </g>
+      <g>
+        <g class="cls-1">
+          <g class="cls-10">
+            <path class="cls-8" d="M757.69,.54V2098.9H396.81c0,58.98-47.82,106.8-106.8,106.8s-106.8-47.82-106.8-106.8H-177.61V.54H757.69Z"/>
+            <path class="cls-8" d="M757.69,.54V2045.52H396.84c0,58.98-47.82,106.8-106.8,106.8s-106.8-47.82-106.8-106.8H-177.61V.54H757.69Z"/>
+            <path class="cls-5" d="M757.69,.54V2045.52H396.84c0,58.98-47.82,106.8-106.8,106.8s-106.8-47.82-106.8-106.8H-166.42C743.74,1523.8,293.25,624.83,631.04,.54h126.65Z"/>
+            <path class="cls-6" d="M219.13,.54C197.5,293.5,48.41,579.61-177.61,807.74V.54H219.13Z"/>
+            <path class="cls-2" d="M38.15,.54C25.96,165.86-54.54,327.52-177.61,459.54V.54H38.15Z"/>
+          </g>
+        </g>
+        <path class="cls-2" d="M132.87,.34C125.37,102.14,75.8,201.7,0,283V.34H132.87Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
