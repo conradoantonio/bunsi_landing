@@ -346,7 +346,8 @@ const Propiedades: React.FC<Props> = ({ isUserLogin }) => {
     const getOwnerships = async () => {
       await axios
         // .get("http://127.0.0.1:3100/api/mongo/ownerships")
-        .get("https://api-bunsi.herokuapp.com/api/mongo/ownerships")
+        // .get("https://api-bunsi.herokuapp.com/api/mongo/ownerships")
+        .get("https://backend-bunsi-production-ad87.up.railway.app/api/mongo/ownerships")
         .then((response) => {
           console.log(`Éxito cargando las ${response.data.Ownerships.length} propiedades`);
           setPropiedades(response.data.Ownerships);

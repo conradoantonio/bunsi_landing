@@ -952,7 +952,8 @@ const Propiedades: React.FC<Props> = ({ isUserLogin }) => {
   useEffect(() => {
     const getOwnerships = async () => {
       await axios
-        .get("http://127.0.0.1:3000/api/mongo/ownerships")
+        .get("https://backend-bunsi-production-ad87.up.railway.app/api/mongo/ownerships")
+        // .get("http://127.0.0.1:3000/api/mongo/ownerships")
         .then((response) => {
           setOwnerships(response.data.Ownerships);
         })
@@ -3051,7 +3052,8 @@ const Propiedades: React.FC<Props> = ({ isUserLogin }) => {
       },
     };
     await axios
-      .post("https://api-bunsi.herokuapp.com/api/mongo/user/new", objInfoUser)
+      .post("https://backend-bunsi-production-ad87.up.railway.app/api/mongo/user/new", objInfoUser)
+      // .post("https://api-bunsi.herokuapp.com/api/mongo/user/new", objInfoUser)
       .then((response) => {
         console.log(response);
         handleCloseMiniModal();
