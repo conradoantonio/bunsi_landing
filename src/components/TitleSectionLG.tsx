@@ -133,13 +133,14 @@ const TitleSectionLG = () => {
                 {navbarItems.map((item) => {
                   return (
                     <SwiperSlide key={item.id}>
-                      <div className="slide">
-                        <Image
+                      <div className="w-full rounded-3xl" >
+                      <img src={item.image} alt="BUNSI"/>
+                        {/* <Image
                           src={item.image}
                           alt="BUNSI"
                           layout="fill"
                           className="w-full rounded-3xl"
-                        />
+                        /> */}
                       </div>
                     </SwiperSlide>
                   )
