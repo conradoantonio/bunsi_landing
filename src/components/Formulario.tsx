@@ -49,7 +49,7 @@ const handleBtnEnviarForm = async () => {
   //   },
   // };
   await axios
-    .post("https://api-bunsi.herokuapp.com/api/mongo/user/new", objInfoUser)
+    .post("https://api-landing-bunsi-production.up.railway.app/api/mongo/user/new", objInfoUser)
     .then((response) => {
       console.log(response);
       // handleCloseMiniModal();
@@ -113,7 +113,7 @@ const NoTeLoPierdas = () => {
     localStorage.setItem('formSent', '1');
     
     await axios
-    .post("https://api-bunsi.herokuapp.com/api/mongo/user/notify", objInfoUser)
+    .post("https://api-landing-bunsi-production.up.railway.app/api/mongo/user/notify", objInfoUser)
     // .post("http://127.0.0.1:3100/api/mongo/user/notify", objInfoUser)
     .then((response) => {
       // MySwal.close();
